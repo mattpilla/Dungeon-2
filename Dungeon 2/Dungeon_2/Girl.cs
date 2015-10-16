@@ -9,8 +9,8 @@ namespace Dungeon_2
     {
         private Vector2 _pos;
         private float _maxSpeed = 4.0f;
-        private float _accel = 0.2f;
-        private float _decel = 0.5f;
+        private const float _accel = 0.2f;
+        private const float _decel = 0.5f;
         private Vector2 _speed = Vector2.Zero;
         private string _animKey = "up";
         private int _animIndex = 4;
