@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\girl.xnb</Output>
+      <Output>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\girl.xnb</Output>
       <Time>2015-09-28T23:29:59.0584189-04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\Text.xnb</Output>
+      <Output>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\Text.xnb</Output>
       <Time>2015-09-28T23:31:29.3145813-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -26,10 +26,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2Content\</RootDirectory>
-      <LoggerRootDirectory>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\</LoggerRootDirectory>
-      <IntermediateDirectory>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2Content\</RootDirectory>
+      <LoggerRootDirectory>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\</LoggerRootDirectory>
+      <IntermediateDirectory>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
