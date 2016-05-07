@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\girl.xnb</Output>
+      <Output>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\girl.xnb</Output>
       <Time>2015-09-28T23:29:59.0584189-04:00</Time>
     </Item>
     <Item>
@@ -16,8 +16,17 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\Text.xnb</Output>
+      <Output>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\Text.xnb</Output>
       <Time>2015-09-28T23:31:29.3145813-04:00</Time>
+    </Item>
+    <Item>
+      <Source>title.jpg</Source>
+      <Name>title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\title.xnb</Output>
+      <Time>2016-03-25T20:20:18.5386133-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -26,10 +35,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2Content\</RootDirectory>
-      <LoggerRootDirectory>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\</LoggerRootDirectory>
-      <IntermediateDirectory>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>f:\Keeta\Documents\Visual Studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2Content\</RootDirectory>
+      <LoggerRootDirectory>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\</LoggerRootDirectory>
+      <IntermediateDirectory>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -57,8 +66,8 @@
         <Value>2011-09-01T16:22:30-04:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2015-09-23T23:12:33.8694409-04:00</Value>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-12-06T23:43:10.5868186-05:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

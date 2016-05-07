@@ -16,3 +16,4 @@ f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\obj
 f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\obj\x86\Debug\Dungeon_2.pdb
 f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\girl.xnb
 f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\Text.xnb
+f:\keeta\documents\visual studio 2015\Projects\Dungeon 2\Dungeon 2\Dungeon_2\bin\x86\Debug\Content\title.xnb

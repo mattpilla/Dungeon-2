@@ -33,6 +33,9 @@ namespace Dungeon_2
             spriteBatch.DrawString(text, _speed.X + ", " + _speed.Y + ", " + _speed.Length(), Vector2.Zero, Color.Black, 0, Vector2.Zero, 1.0f, SpriteEffects.None, 0.5f);
         }
 
+        /**
+        * Position Girl
+        */
         public void move(Vector2 priority) {
             var newPos = _pos;
             if (priority.X != 0) {

@@ -1,2 +1,3 @@
 Content\girl.xnb
 Content\Text.xnb
+Content\title.xnb
